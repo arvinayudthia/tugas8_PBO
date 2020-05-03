@@ -1,0 +1,14 @@
+Êþº¾   4 D
+  '	 ( ) *
+  ' +
+  ,	  -
+  .
+ / 0 1
+  2 3
+  4
+  5 6 7 8 nama Ljava/lang/String; <init> ()V Code LineNumberTable LocalVariableTable this Lnomor4/MethodStatic; 	cetakNama 	cetakUmur (I)V umur I main ([Ljava/lang/String;)V args [Ljava/lang/String; <clinit> 
+SourceFile MethodStatic.java   9 : ; java/lang/StringBuilder 
+Nama saya  < =   > ? @ A B Saya berumur  < C  tahun     ARVINA YUDITHIA SOMPIE nomor4/MethodStatic java/lang/Object java/lang/System out Ljava/io/PrintStream; append -(Ljava/lang/String;)Ljava/lang/StringBuilder; toString ()Ljava/lang/String; java/io/PrintStream println (Ljava/lang/String;)V (I)Ljava/lang/StringBuilder; !      	             /     *· ±                        	       8      ² » Y· ¶ ² ¶ ¶ ¶ 	±       
+       	       M     ² » Y· 
+¶ ¶ ¶ ¶ ¶ 	±       
+                   	   !     ;     	¸ ¸ ±                       	 " #    $            ³ ±             %    &
